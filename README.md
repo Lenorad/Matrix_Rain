@@ -10,4 +10,4 @@ This is only a prototype.
 | Things needs to be fixed | Thing needs to be improved |
 | ------- | -------- |
 | Memory leak | Grid system|
-| Characters glitching | More visual effcts |
+| Characters glitching | More visual effects |
