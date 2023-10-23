@@ -8,5 +8,6 @@ Font used - https://www.1001freefonts.com/kahless.font
 ### NOTE
 This is only a prototype. 
 | Things needs to be fixed | Thing needs to be improved |
+| ------- | -------- |
 | Memory leak | Grid system|
 | Characters glitching | More visual effcts |
